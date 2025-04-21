@@ -34,8 +34,8 @@ This repository contains automated tests for the Netlify website (https://www.ne
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone https://github.com/harutyunianlilit/netlify-playwright-tests.git
+   cd netlify-playwright-tests
    ```
 
 2. Install the dependencies:
