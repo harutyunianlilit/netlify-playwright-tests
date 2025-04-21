@@ -1,0 +1,19 @@
+{
+  "name": "netlify-playwright-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.1",
+    "prettier": "^3.5.3"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.0",
+    "xml2js": "^0.6.2"
+  }
+}
